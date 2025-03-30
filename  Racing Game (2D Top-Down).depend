@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1743277008 source:c:\aqib\projects\projects c\code\7  racing game (2d top-down)\ racing game (2d top-down)\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdbool.h>
+
